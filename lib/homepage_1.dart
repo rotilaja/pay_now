@@ -524,7 +524,7 @@ class _HomePageOneState extends State<HomePageOne> {
           ),
           child: BottomNavigationBar(
             type: BottomNavigationBarType.fixed,
-            backgroundColor: Color.fromARGB(255, 230, 229, 229),
+            backgroundColor: Color.fromARGB(255, 243, 242, 242),
             selectedItemColor: Colors.black,
             unselectedItemColor: Colors.grey[400],
             iconSize: 40,
